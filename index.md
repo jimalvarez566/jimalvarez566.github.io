@@ -17,12 +17,14 @@ My GitHub page is http://github.com/jimalvarez566.
 
 
 * Lab 4
+
     Lab 4, part 2 was another favorite of mine because it was a more advanced version
     of the HiLo game we did in previous labs. This game consisted of using if and else
     if statements to estimate whether the user's input was matched the secret number. 
 
 
 * Lab 10
+
     Lab 10, part 2 was my third favorite lab because it outputted the population of
     counties in California. We achieved this by using 2D vectors to organize the data
     into a table like object. This lab also incorporated multiple things we learned such
